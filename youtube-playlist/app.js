@@ -94,7 +94,6 @@ var arr = [
     length: "3:47",
   },
 ];
-
 arr.forEach(function (data, index) {
   var item = document.createElement("div");
 
